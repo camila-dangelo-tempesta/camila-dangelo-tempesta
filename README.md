@@ -26,10 +26,15 @@
 ***
 ## **Python Languagem**
 
+ :red_circle: Sales Predictions for ROSSMANN Stores [Click Here](https://github.com/camila-dangelo-tempesta/rossmann_sales_forecast)
 
+ :red_circle: Web Scraping and ETL Design for a Jeans company [Click Here](https://github.com/camila-dangelo-tempesta/star_jeans)
 
+ :red_circle: Web Scraping and ETL Design for a Book company [Click Here](https://github.com/camila-dangelo-tempesta/books_to_scrape)
 
+ :red_circle: EDA Brazilian National Exam [Click Here](https://github.com/camila-dangelo-tempesta/brazilian_national_exam)
 
+ :red_circle: EDA House Sales in King County [Click Here](https://github.com/camila-dangelo-tempesta/house_sales_k_c)
 
 
 
