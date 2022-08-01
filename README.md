@@ -7,7 +7,7 @@
 ***
 ## **R Languagem**
 
-:large_blue_circle: **Explainability of AutoML Models with SHAP (SHapley Additive exPlanations)** [Click Here](https://github.com/camila-dangelo-tempesta/shapley_additive_exPlanations)
+:large_blue_circle: **Explainability of AutoML Models with SHAP** (SHapley Additive exPlanations) [Click Here](https://github.com/camila-dangelo-tempesta/shapley_additive_exPlanations)
 
 :large_blue_circle: **Financial Analysis with SQL Language and Linear Regression in R Language** [Click Here](https://github.com/camila-dangelo-tempesta/hospital_cost_report_public_use_file)
 
