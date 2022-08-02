@@ -1,5 +1,9 @@
-## 👋 Hello World :grey_exclamation::grey_exclamation::grey_exclamation:
+## Hello World :grey_exclamation::grey_exclamation::grey_exclamation:
+
+
 ### Welcome to my Github profile.
+
+
 ### My name is Camila D'Angelo 
 
 ***
@@ -9,7 +13,7 @@
 
 :large_blue_circle: **Explainability of AutoML Models with SHAP** (SHapley Additive exPlanations) [Click Here](https://github.com/camila-dangelo-tempesta/shapley_additive_exPlanations)
 
-:large_blue_circle: **Financial Analysis with SQL Language and Linear Regression in R Language** [Click Here](https://github.com/camila-dangelo-tempesta/hospital_cost_report_public_use_file)
+:small_blue_diamond: **Financial Analysis with SQL Language and Linear Regression in R Language** [Click Here](https://github.com/camila-dangelo-tempesta/hospital_cost_report_public_use_file)
 
 :large_blue_circle: **Exploratory Data Analysis Socioeconomic** [Click Here](https://github.com/camila-dangelo-tempesta/world_happiness-_report)
 
