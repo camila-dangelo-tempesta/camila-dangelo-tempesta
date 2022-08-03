@@ -32,6 +32,14 @@
 ***
 ## **Python Languagem**
 
+
+
+
+
+:small_orange_diamond: Data Cleaning and Pre-Processing with Numpy [Click Here](https://github.com/camila-dangelo-tempesta/)
+
+
+
  :small_orange_diamond: Sales Predictions for ROSSMANN Stores [Click Here](https://github.com/camila-dangelo-tempesta/rossmann_sales_forecast)
 
  :small_orange_diamond: Web Scraping and ETL Design for a Jeans company [Click Here](https://github.com/camila-dangelo-tempesta/star_jeans)
