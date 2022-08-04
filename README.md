@@ -32,6 +32,8 @@
 ***
 ## **Python Languagem**
 
+
+:small_orange_diamond: School Data Analysis with Pandas [Click Here](https://github.com/camila-dangelo-tempesta/loan_data_from_lending_club)
 :small_orange_diamond: Data Cleaning and Pre-Processing with Numpy [Click Here](https://github.com/camila-dangelo-tempesta/loan_data_from_lending_club)
 
 
