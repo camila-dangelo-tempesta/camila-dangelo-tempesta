@@ -44,11 +44,11 @@ Feel free to contact me anytime 🙂.
 ## **Python Languagem**
 
 
-:small_orange_diamond: Exploratory Analysis and Data Wrangling For E-Commerce Analytics [Click Here](https://github.com/camila-dangelo-tempesta/data_wrangling_for_e-commerce_analytics)
+:small_orange_diamond: **Exploratory Analysis and Data Wrangling For E-Commerce Analytics** [Click Here](https://github.com/camila-dangelo-tempesta/data_wrangling_for_e-commerce_analytics)
 
-:small_orange_diamond: School Data Analysis with Pandas [Click Here](https://github.com/camila-dangelo-tempesta/realistic_data_generator)
+:small_orange_diamond: **School Data Analysis with Pandas** [Click Here](https://github.com/camila-dangelo-tempesta/realistic_data_generator)
 
-:small_orange_diamond: Data Cleaning and Pre-Processing with Numpy [Click Here](https://github.com/camila-dangelo-tempesta/loan_data_from_lending_club)
+:small_orange_diamond: **Data Cleaning and Pre-Processing with Numpy** [Click Here](https://github.com/camila-dangelo-tempesta/loan_data_from_lending_club)
 
 
 
