@@ -6,6 +6,17 @@
 
 ### My name is Camila D'Angelo 
 
+I'm a 31 year old industrial production engineer looking for an entry-level job in the Data Science field.
+I graduated in Engineering in 2020 but decided to use my analytical skills to build data solutions.
+
+Check out my Data Science Projects Portfolio.
+
+**Some new projects are on the way soon** :grey_exclamation::grey_exclamation:
+
+It will be a pleasure to be part of your network on [LinkedIn](https://www.linkedin.com/in/camiladangelotempesta/)
+
+Feel free to contact me anytime 🙂.
+
 ***
 # Data Science Projects
 ***
