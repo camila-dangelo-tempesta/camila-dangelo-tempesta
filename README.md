@@ -6,8 +6,10 @@
 
 ### My name is Camila D'Angelo 
 
-I'm a 31 year old industrial production engineer looking for an entry-level job in the Data Science field.
+I'm a 31 year old industrial production engineer looking for a job in the Data Science field.
 I graduated in Engineering in 2020 but decided to use my analytical skills to build data solutions.
+
+Currently in training, Data Scientist, enrolled in two advanced training programs, focusing on problem solving through the development of end-to-end data products and solutions, from data collection, manipulation, cleaning, pre-processing to application of Machine Learning algorithms and predictive model deployment.
 
 Check out my Data Science Projects Portfolio.
 
