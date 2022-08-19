@@ -45,7 +45,7 @@ Feel free to contact me anytime 🙂.
 ***
 ## **Python Languagem**
 
-:small_orange_diamond: **Supervised Regression Machine Learning for Ecommerce** [Click Here](https://github.com/camila-dangelo-tempesta/ml_regression_ecommerce)
+:small_orange_diamond: **Supervised Regression Machine Learning for Ecommerce Sales Increase** [Click Here](https://github.com/camila-dangelo-tempesta/ml_regression_ecommerce)
 
 :small_orange_diamond: **Supervised machine learning of classification of patients with liver diseases** [Click Here](https://github.com/camila-dangelo-tempesta/ml_classification_ilpd)
 
