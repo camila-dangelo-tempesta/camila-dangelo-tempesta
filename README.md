@@ -45,7 +45,7 @@ Feel free to contact me anytime 🙂.
 ***
 ## **Python Languagem**
 
-:small_orange_diamond: **Predicting Bitcoin Cryptocurrency Quote in Real Time with PySpark and Machine Learning** [Click Here](https://github.com/camila-dangelo-tempesta/ml_regression_ecommerce)
+:small_orange_diamond: **Predicting Bitcoin Cryptocurrency Quote in Real Time with PySpark and Machine Learning** [Click Here](https://github.com/camila-dangelo-tempesta/ml_pyspark_cryptocurrencies)
 
 :small_orange_diamond: **Supervised Regression Machine Learning for Ecommerce Sales Increase** [Click Here](https://github.com/camila-dangelo-tempesta/ml_regression_ecommerce)
 
