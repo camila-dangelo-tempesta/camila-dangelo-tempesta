@@ -72,7 +72,7 @@ Feel free to contact me anytime 🙂.
  ***
 ## **SQL**
 
-**Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/rossmann_sales_forecast)
+**Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
 
 
 
