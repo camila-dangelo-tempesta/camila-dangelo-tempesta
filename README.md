@@ -68,6 +68,11 @@ Feel free to contact me anytime 🙂.
 :small_orange_diamond: EDA Brazilian National Exam [Click Here](https://github.com/camila-dangelo-tempesta/brazilian_national_exam)
 
  :small_orange_diamond: EDA House Sales in King County [Click Here](https://github.com/camila-dangelo-tempesta/house_sales_k_c)
+ 
+ ***
+## **SQL**
+
+**Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/rossmann_sales_forecast)
 
 
 
