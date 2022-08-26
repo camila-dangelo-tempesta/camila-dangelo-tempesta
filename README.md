@@ -1,10 +1,10 @@
 ## Hello World :grey_exclamation::grey_exclamation::grey_exclamation:
 
 
-### Welcome to my Github profile.
+### Welcome to my Github profile :raised_hand_with_fingers_splayed::raised_hand_with_fingers_splayed:
 
 
-### My name is Camila D'Angelo 
+### My name is Camila D'Angelo :woman_office_worker:
 
 I'm a 31 year old industrial production engineer looking for a job in the Data Science field.
 I graduated in Engineering in 2020 but decided to use my analytical skills to build data solutions.
@@ -13,7 +13,7 @@ Currently in training, Data Scientist, enrolled in two advanced training program
 
 Check out my Data Science Projects Portfolio.
 
-**Some new projects are on the way soon** :grey_exclamation::grey_exclamation:
+:rocket: **Some new projects are on the way soon** :grey_exclamation::grey_exclamation:
 
 It will be a pleasure to be part of your network on [LinkedIn](https://www.linkedin.com/in/camiladangelotempesta/)
 
@@ -72,7 +72,7 @@ Feel free to contact me anytime 🙂.
  ***
 ## **SQL**
 
-**Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
+:white_medium_square: **Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
 
 
 
