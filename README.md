@@ -74,6 +74,9 @@ Feel free to contact me anytime 🙂.
 
 :white_medium_square: **Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
 
+:white_medium_square: **Data Manipulation with SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL and Docker** [Click Here](https://github.com/camila-dangelo-tempesta/sparkSQL_pandaSQL_SQLalchemy_postgreSQL_docker)
+
+
 
 
 
