@@ -73,7 +73,7 @@ Feel free to contact me anytime 🙂.
 ## **Apache Spark**
 
 
-:white_medium_square: **Machine Learning with PySpark** [Click Here]()
+:white_medium_square: **Machine Learning with PySpark** [Click Here](https://github.com/camila-dangelo-tempesta/ml_apache_spark_pyspark)
 
 :white_medium_square: **Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
 
