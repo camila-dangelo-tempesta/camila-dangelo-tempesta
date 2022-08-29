@@ -70,7 +70,10 @@ Feel free to contact me anytime 🙂.
  :small_orange_diamond: EDA House Sales in King County [Click Here](https://github.com/camila-dangelo-tempesta/house_sales_k_c)
  
  ***
-## **SQL**
+## **Apache Spark**
+
+
+:white_medium_square: ** ** [Click Here]()
 
 :white_medium_square: **Applied Data Science in Logistics with Spark SQL** [Click Here](https://github.com/camila-dangelo-tempesta/spark_sql_logistica)
 
