@@ -72,7 +72,7 @@ Feel free to contact me anytime 🙂.
  ***
 ## **Apache Spark**
 
-:white_medium_square: **Creation of automation modules with AutoML system AND Machine Learning application with Spark MLlib in PySpark** [Click Here](https://github.com/camila-dangelo-tempesta/ml_apache_spark_pyspark)
+:white_medium_square: **Creation of automation modules with AutoML system AND Machine Learning application with Spark MLlib in PySpark** [Click Here](https://github.com/camila-dangelo-tempesta/ml_pyspark_regression_engineering_civil)
 
 :white_medium_square: **Machine Learning with PySpark** [Click Here](https://github.com/camila-dangelo-tempesta/ml_apache_spark_pyspark)
 
