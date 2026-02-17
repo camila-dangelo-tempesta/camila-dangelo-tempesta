@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/camiladangelotempesta/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
   </a>
   <a href="https://github.com/camila-dangelo-tempesta" target="_blank">
@@ -69,5 +69,5 @@ My objective is to work as a *BI Analyst / Data Analyst* (France → Basel area)
 ---
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in//](https://www.linkedin.com/in/camiladangelotempesta/)
+- LinkedIn: https://www.linkedin.com/in/camiladangelotempesta/
 - Location: France (Alsace) — Basel area
